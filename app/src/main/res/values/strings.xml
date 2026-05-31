@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Water Reminder</string>
+    
+    <!-- Home Screen -->
+    <string name="home_title">Water Reminder</string>
+    <string name="home_empty_state">Yuk mulai minum air hari ini!</string>
+    <string name="home_target_achieved">✅ Target tercapai!</string>
+    <string name="home_add_water">+ Tambah Minum</string>
+    <string name="home_error">Gagal memuat data</string>
+    
+    <!-- Add Water Screen -->
+    <string name="add_water_title">Tambah Minum</string>
+    <string name="add_water_note_hint">Catatan (opsional)</string>
+    <string name="add_water_save">Simpan</string>
+    <string name="add_water_min_error">Jumlah minimal adalah 50 ml</string>
+    <string name="add_water_max_error">Jumlah maksimal adalah 2000 ml</string>
+    
+    <!-- Success Screen -->
+    <string name="success_title">Berhasil!</string>
+    <string name="success_added">Ditambahkan</string>
+    <string name="success_total_today">Total hari ini</string>
+    <string name="success_target_achieved">🎉 Target harian tercapai!</string>
+    <string name="success_back_home">Kembali ke Beranda</string>
+    
+    <!-- History Screen -->
+    <string name="history_title">Riwayat</string>
+    <string name="history_empty">Belum ada riwayat minum air</string>
+    <string name="history_add_now">+ Tambah Sekarang</string>
+    <string name="history_target_achieved">✓ Target tercapai</string>
+    
+    <!-- History Detail Screen -->
+    <string name="history_detail_delete">Hapus</string>
+    <string name="history_detail_delete_confirm_title">Hapus Entri</string>
+    <string name="history_detail_delete_confirm_message">Apakah Anda yakin ingin menghapus entri ini?</string>
+    <string name="history_detail_cancel">Batal</string>
+    <string name="history_detail_empty">Tidak ada entri untuk tanggal ini</string>
+    
+    <!-- Reminder Screen -->
+    <string name="reminder_title">Pengingat</string>
+    <string name="reminder_enable">Aktifkan Pengingat</string>
+    <string name="reminder_interval">Interval Pengingat</string>
+    <string name="reminder_start_time">Waktu Mulai</string>
+    <string name="reminder_end_time">Waktu Selesai</string>
+    <string name="reminder_permission_rationale">Izin notifikasi diperlukan untuk mengirim pengingat minum air</string>
+    <string name="reminder_permission_denied">Buka Pengaturan untuk mengaktifkan notifikasi</string>
+    <string name="reminder_open_settings">Buka Pengaturan</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings_title">Pengaturan</string>
+    <string name="settings_daily_target">Target Harian</string>
+    <string name="settings_unit">Satuan</string>
+    <string name="settings_version">Versi Aplikasi</string>
+    
+    <!-- Notification -->
+    <string name="notification_title">Waktunya minum air! 💧</string>
+    <string name="notification_message">Jangan lupa minum air untuk menjaga tubuh tetap sehat.</string>
+    
+    <!-- Common -->
+    <string name="loading">Memuat…</string>
+    <string name="error">Terjadi kesalahan</string>
+    <string name="retry">Coba Lagi</string>
+</resources>
